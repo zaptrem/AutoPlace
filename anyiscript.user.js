@@ -5,8 +5,8 @@
  // @description  ANYI
  // @author       stolen from r/teslamotors
  // @match        https://hot-potato.reddit.com/embed*
- // @updateURL    https://gist.github.com/xsorifc28/e6529558e4b41a9712bac70220b3c2de/raw/placetesla.user.js
- // @downloadURL  https://gist.github.com/xsorifc28/e6529558e4b41a9712bac70220b3c2de/raw/placetesla.user.js
+ // @updateURL    https://github.com/zaptrem/AutoPlace/raw/main/anyiscript.user.js
+ // @downloadURL  https://github.com/zaptrem/AutoPlace/raw/main/anyiscript.user.js
  // @grant        GM_xmlhttpRequest
  // @connect      raw.githubusercontent.com
  // ==/UserScript==
